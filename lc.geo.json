@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","id":"LC","properties":{"name":"Lehman Creek"},"geometry":{"type":"Polygon","coordinates":[[[-114.226489,39.017652],[-114.300471,39.015785],[-114.308958,39.00517],[-114.234184,38.998015],[-114.214611,38.996648],[-114.226489,39.017652]]]}}
+]}
+
+
